@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Muhiminul Islam</h1>
+<h1 align="center">Hi 👋, I'm Md. Muhiminul Islam Osim</h1>
 <h3 align="center">Competitive programmer, Problem Setter and CS Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhiminosim&label=Profile%20views&color=0e75b6&style=flat" alt="muhiminosim" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **muhiminul@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ljI0reRcp9ngkwZztIo7l9wvu3BiOWKf](https://drive.google.com/file/d/1ljI0reRcp9ngkwZztIo7l9wvu3BiOWKf)
+- 📄 Know about my experiences [https://cutt.ly/gO3HWL8](https://cutt.ly/gO3HWL8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +31,8 @@
 <a href="https://www.hackerrank.com/muhiminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhiminul" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/muhimin_osim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muhimin_osim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhimin_osim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhimin_osim" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/muhiminulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="muhiminulislam" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@muhiminulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muhiminulislam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muhiminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muhiminul" height="30" width="40" /></a>
-<a href="https://discord.gg/517795903667568682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="517795903667568682" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
