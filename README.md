@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Muhiminul Islam Osim</h1>
+<h1 align="center">Hi 👋, It's Md. Muhiminul Islam Osim</h1>
 <h3 align="center">Competitive programmer, Problem Setter and CS Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhiminosim&label=Profile%20views&color=0e75b6&style=flat" alt="muhiminosim" /> </p>
