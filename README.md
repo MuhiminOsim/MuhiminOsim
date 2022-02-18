@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering at [Khulna University of Engineering & Technology](kuet.ac.bd)
 
-- 👨‍💻 All of my projects are available at [muhiminosim.github.io](muhiminosim.github.io)
+- 👨‍💻 All of my projects are available at [muhiminosim.github.io](https://muhiminosim.github.io)
 
 - 💬 Ask me about **Competitive Programming, Problem Solving**
 
