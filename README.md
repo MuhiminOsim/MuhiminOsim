@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **muhiminul@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/gO3HWL8](https://cutt.ly/gO3HWL8)
+- 📄 Know about my experiences [muhiminosim.github.io](https://muhiminosim.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
