@@ -5,7 +5,7 @@
 
 <p align="left"> <!-- <a href="https://twitter.com/muhiminulosim" target="blank"><img src="https://img.shields.io/twitter/follow/muhiminulosim?logo=twitter&style=for-the-badge" alt="muhiminulosim" /></a> --!> </p>
 
-- 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
+- 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) in Computer Science and Engineering
 
 - 👨‍💻 All of my projects are available at [muhiminosim.github.io](https://muhiminosim.github.io)
 
