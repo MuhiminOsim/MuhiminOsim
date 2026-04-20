@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [muhiminosim.github.io](https://muhiminosim.github.io)
 
-- 💬 Ask me about **Competitive Programming, Problem Solving**
+- 💬 Ask me about **Competitive Programming, Problem Solving, Android Development, Image Processing, Computer Vision, or Anything you might think I know.**
 
 - 📫 How to reach me **muhiminul@gmail.com**
 
