@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Md. Muhiminul Islam Osim</h1>
-<h3 align="center">Software Engineer, CS Graduate, Competitive programmer, Problem Setter and Programming Trainer</h3>
+<h3 align="center">Software Engineer, Lecturer, Researcher, Problem Setter and Programming Trainer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhiminosim&label=Profile%20views&color=0e75b6&style=flat" alt="muhiminosim" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [muhiminosim.github.io](https://muhiminosim.github.io)
 
-- 💬 Ask me about **Competitive Programming, Problem Solving, Android Development, Image Processing, Computer Vision, or Anything you might think I know.**
+- 💬 Ask me about **ML Research, Computer Vision, Image Processing, Competitive Programming, Problem Solving, Android Development, or Anything you might think I know.**
 
 - 📫 How to reach me **muhiminul@gmail.com**
 
